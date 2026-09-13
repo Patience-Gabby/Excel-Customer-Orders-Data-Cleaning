@@ -81,6 +81,18 @@ After applying data-cleaning techniques in Microsoft Excel, the dataset was tran
 The project started with a messy customer orders dataset containing inconsistencies and data-quality issues.
 
 After applying the cleaning process, the dataset was transformed into a more consistent and structured format that can be used for further analysis and visualization.
+## 💼 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Quality Assessment
+- Handling Missing Values
+- Text Cleaning and Standardization
+- Data Formatting
+- Data Validation
+- Excel Formulas
+- Sorting and Filtering
+- Preparing Data for Analysis
 
 ## 💡 Key Learning
 
