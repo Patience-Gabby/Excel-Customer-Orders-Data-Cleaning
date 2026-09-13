@@ -65,6 +65,19 @@ Key cleaning activities included:
 * Data quality checks
 
 ## 📊 Before & After
+## 📊 Before & After
+
+### Before Cleaning
+
+The original dataset contained several data-quality issues, including missing values, inconsistent formatting, and inconsistencies in some fields.
+
+![Before Cleaning](screenshots/before-cleaning.png)
+
+### After Cleaning
+
+After applying data-cleaning techniques in Microsoft Excel, the dataset was transformed into a cleaner and more structured format suitable for further analysis.
+
+![After Cleaning](screenshots/after-cleaning.png)
 
 The project started with a messy customer orders dataset containing inconsistencies and data-quality issues.
 
