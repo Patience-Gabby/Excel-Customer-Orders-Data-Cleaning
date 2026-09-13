@@ -70,13 +70,13 @@ Key cleaning activities included:
 
 The original dataset contained several data-quality issues, including missing values, inconsistent formatting, and inconsistencies in some fields.
 
-![Before Cleaning](screenshots/before-cleaning.png)
+![Before Cleaning](screenshots/BEFORE_CLEANING.png)
 
 ### After Cleaning
 
 After applying data-cleaning techniques in Microsoft Excel, the dataset was transformed into a cleaner and more structured format suitable for further analysis.
 
-![After Cleaning](screenshots/after-cleaning.png)
+![After Cleaning](screenshots/AFTER_CLEANING.png)
 
 The project started with a messy customer orders dataset containing inconsistencies and data-quality issues.
 
