@@ -1,5 +1,3 @@
-# Excel-Customer-Orders-Data-Cleaning
-An Excel data cleaning project focused on transforming a messy customer orders dataset into a clean, structured, and analysis-ready dataset.
 # Excel Customer Orders Data Cleaning
 
 ## 📌 Project Overview
@@ -12,7 +10,7 @@ The goal was to identify data-quality issues, apply appropriate cleaning techniq
 
 To demonstrate practical data-cleaning skills using Microsoft Excel and prepare raw customer order data for further analysis and reporting.
 
-## 🗂️ Dataset
+##  Dataset
 
 The dataset contains customer order information, including:
 
