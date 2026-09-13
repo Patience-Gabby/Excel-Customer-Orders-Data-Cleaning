@@ -65,7 +65,6 @@ Key cleaning activities included:
 * Data quality checks
 
 ## 📊 Before & After
-## 📊 Before & After
 
 ### Before Cleaning
 
